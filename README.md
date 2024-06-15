@@ -17,9 +17,39 @@
     </a>
 </p>
 
-- 🌱 I’m currently learning **Data Structures And Algorithm (using JAVA)**
-- 💬 Ask me about **MERN and Designing**
-- 📫 How to reach me **ragulram0427@gmail.com**
+## 🌟 About Me
+
+I'm a **Student '26** passionate about web development, specializing in the **MERN stack**. Currently pursuing a B.Tech in Artificial Intelligence and Data Science at Bannari Amman Institute Of Technology.
+
+### 🔭 What I'm Passionate About
+- 💡 Exploring new technologies and discovering innovative solutions.
+- 🌱 Learning and growing, especially in the realms of web development.
+- ✍️ Pursuing web design as a creative outlet and side project.
+
+### What I'm Currently Up To
+- 🎓 Studying hard to deepen my understanding of computer science fundamentals and mathematical principles.
+- 🛠️ Working on personal coding projects to apply what I've learned and experiment with new technologies.
+- 📚 Researching and staying updated on the latest advancements in the tech industry.
+
+### 🔧 What I'm Specialized In
+- Crafting dynamic web applications with React.js and Node.js.
+- Building scalable full-stack websites for tailored needs.
+
+### 🌱 Currently Learning
+- Diving into the realm of system design to improve my knowledge of scalable backends.
+- Mastering Docker to streamline deployment processes and containerization.
+- Learning DSA using Java.
+
+## 🌐 My Expertise
+- **JavaScript Enthusiast:** I have hands-on experience with JavaScript and have successfully delivered projects, including an online form-generating website used during students' academic journeys.
+- **Laravel Developer:** Proficient in Laravel, a PHP framework known for its elegant syntax and developer-friendly features. I've leveraged Laravel to build dynamic and scalable web applications, demonstrating a strong command of server-side development.
+
+## 🚀 My Mission
+I am fueled by the desire to constantly learn and evolve in the ever-changing field of web development. My goal is to blend my academic knowledge with real-world experience to bring innovative ideas to life. I thrive in collaborative environments where creativity knows no bounds.
+
+## 📚 Education
+I'm currently pursuing my B.Tech in Artificial Intelligence and Data Science at Bannari Amman Institute Of Technology, where I'm not only gaining academic knowledge but also actively applying it to real projects.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
