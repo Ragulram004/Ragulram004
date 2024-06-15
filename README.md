@@ -101,7 +101,11 @@ I'm a **Student '26** passionate about web development, specializing in the **ME
     
 </p>
 
+<h3>Connect with me: </h3>
+  <p>Get in touch with me on LinkedIn if you have any professional inquiries or are looking to collaborate.</p>
+
 <p align="left">
+    
     <a href="https://linkedin.com/in/ragulram-b-455387253" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ragulram-b-455387253" height="30" width="40" />
     </a>
