@@ -101,19 +101,6 @@ I'm a **Student '26** passionate about web development, specializing in the **ME
     
 </p>
 
-<h3>Github Stats:</h3>
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ragulram004&show_icons=true&locale=en" alt="ragulram004" /></p>
-
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragulram004&" alt="ragulram004" />
-  </p>
-  <p>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragulram004&show_icons=true&locale=en&layout=compact" alt="ragulram004" />
-  </p>
-    <br>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/ragulram-b-455387253" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ragulram-b-455387253" height="30" width="40" />
