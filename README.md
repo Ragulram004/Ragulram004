@@ -31,7 +31,6 @@ I'm a **Student '26** passionate about web development, specializing in the **ME
 - **JavaScript Enthusiast:** With hands-on experience in JavaScript, I've successfully delivered projects such as an online form-generating website used by students.
 
 ### Current Activities
-- 🎓 Deepening my understanding of computer science fundamentals and mathematical principles through dedicated study.
 - 🛠️ Working on personal coding projects to implement my knowledge and explore new technologies.
 - 📚 Keeping up-to-date with the latest trends and advancements in the tech industry through research.
 
