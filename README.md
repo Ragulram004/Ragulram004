@@ -22,19 +22,23 @@
 I'm a **Student '26** passionate about web development, specializing in the **MERN stack**. Currently pursuing a B.Tech in Artificial Intelligence and Data Science at Bannari Amman Institute Of Technology.
 
 ### 🔭 My Passions
+
 - 💡 Delving into new technologies and finding creative solutions.
 - 🌱 Continuously learning and developing, particularly in web development.
 - ✍️ Engaging in web design as a creative endeavor and side project.
 
 ### 🔧 My Skills
+
 - Developing dynamic web applications using React.js and Node.js
 - **JavaScript Enthusiast:** With hands-on experience in JavaScript, I've successfully delivered projects such as an online form-generating website used by students.
 
-### Current Activities
+### ☀️ Current Activities
+
 - 🛠️ Working on personal coding projects to implement my knowledge and explore new technologies.
 - 📚 Keeping up-to-date with the latest trends and advancements in the tech industry through research.
 
 ### 🌱 Currently Expanding My Knowledge
+
 - Enhancing my skills in DSA (Data Structures and Algorithms) using Java.
 
 
