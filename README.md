@@ -110,7 +110,7 @@ I'm a **Student '26** passionate about web development, specializing in the **ME
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragulram004&" alt="ragulram004" />
   </p>
   <p>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragulram004&show_icons=true&locale=en&layout=compact" alt="ragulram004" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragulram004&show_icons=true&locale=en&layout=compact" alt="ragulram004" />
   </p>
     <br>
 
