@@ -21,43 +21,29 @@
 
 I'm a **Student '26** passionate about web development, specializing in the **MERN stack**. Currently pursuing a B.Tech in Artificial Intelligence and Data Science at Bannari Amman Institute Of Technology.
 
-### 🔭 What I'm Passionate About
-- 💡 Exploring new technologies and discovering innovative solutions.
-- 🌱 Learning and growing, especially in the realms of web development.
-- ✍️ Pursuing web design as a creative outlet and side project.
+### 🔭 My Passions
+- 💡 Delving into new technologies and finding creative solutions.
+- 🌱 Continuously learning and developing, particularly in web development.
+- ✍️ Engaging in web design as a creative endeavor and side project.
 
-### What I'm Currently Up To
-- 🎓 Studying hard to deepen my understanding of computer science fundamentals and mathematical principles.
-- 🛠️ Working on personal coding projects to apply what I've learned and experiment with new technologies.
-- 📚 Researching and staying updated on the latest advancements in the tech industry.
+### 🔧 My Skills
+- Developing dynamic web applications using React.js and Node.js
+- **JavaScript Enthusiast:** With hands-on experience in JavaScript, I've successfully delivered projects such as an online form-generating website used by students.
 
-### 🔧 What I'm Specialized In
-- Crafting dynamic web applications with React.js and Node.js.
-- Building scalable full-stack websites for tailored needs.
+### Current Activities
+- 🎓 Deepening my understanding of computer science fundamentals and mathematical principles through dedicated study.
+- 🛠️ Working on personal coding projects to implement my knowledge and explore new technologies.
+- 📚 Keeping up-to-date with the latest trends and advancements in the tech industry through research.
 
-### 🌱 Currently Learning
-- Diving into the realm of system design to improve my knowledge of scalable backends.
-- Mastering Docker to streamline deployment processes and containerization.
-- Learning DSA using Java.
+### 🌱 Currently Expanding My Knowledge
+- Enhancing my skills in DSA (Data Structures and Algorithms) using Java.
 
-## 🌐 My Expertise
-- **JavaScript Enthusiast:** I have hands-on experience with JavaScript and have successfully delivered projects, including an online form-generating website used during students' academic journeys.
-- **Laravel Developer:** Proficient in Laravel, a PHP framework known for its elegant syntax and developer-friendly features. I've leveraged Laravel to build dynamic and scalable web applications, demonstrating a strong command of server-side development.
-
-## 🚀 My Mission
-I am fueled by the desire to constantly learn and evolve in the ever-changing field of web development. My goal is to blend my academic knowledge with real-world experience to bring innovative ideas to life. I thrive in collaborative environments where creativity knows no bounds.
-
-## 📚 Education
-I'm currently pursuing my B.Tech in Artificial Intelligence and Data Science at Bannari Amman Institute Of Technology, where I'm not only gaining academic knowledge but also actively applying it to real projects.
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/ragulram-b-455387253" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ragulram-b-455387253" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/ragulram_004" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ragulram_004" height="30" width="40" />
     </a>
 </p>
 
