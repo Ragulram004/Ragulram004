@@ -102,6 +102,7 @@ I'm a **Student '26** passionate about web development, specializing in the **ME
 </p>
 
 <h3>Connect with me: </h3>
-  <p>
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ragulram-b-455387253" height="25" width="35" />
-    </p>
+ <a href="https://www.linkedin.com/in/ragulram-b-455387253/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ragulram-b-455387253" height="25" width="35" />
+</a>
+
