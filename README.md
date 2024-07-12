@@ -105,4 +105,9 @@ I'm a **Student '26** passionate about web development, specializing in the **ME
  <a href="https://www.linkedin.com/in/ragulram-b-455387253/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ragulram-b-455387253" height="25" width="35" />
 </a>
+<a href="https://www.instagram.com/ragulram_004/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_instagram_username" height="25" width="35" />
+</a>
+
+
 
