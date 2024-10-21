@@ -6,6 +6,7 @@
   <code><a href="mailto: ragulram0427@gmail.com" title="Gmail"><img width="28" src="images/gmail.png"> Gmail</a></code>
 </p>
 <img align="right" src="https://komarev.com/ghpvc/?username=ragulram004&label=Visitors&color=61DAFB&style=flat" alt="ragulram004" >
+<br>
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Welcome+to+my+Profile...!&center=true&size=25&color=F0DC4E&weight=900">
