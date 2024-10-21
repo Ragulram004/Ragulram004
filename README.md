@@ -10,39 +10,30 @@
   <code><a href="https://www.linkedin.com/in/ragulram-b-455387253/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 </h5>
 <br>
-<h4 align="center">
+<h3 align="center">
   Hi, I'm Ragulram,
-  <br>
+</h3>
+<p align="center">
   <br>
   🔬 I'm currently studying B.Tech at Bannari Amman Institute of Technology , Department of Artificial Intelligence and Data Science.
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning Data Structures and Algorithm using Java.
+  📚 I'm currently learning Data Structures and Algorithm using Java.
   <br>
   💬 Ask me anything about from <a href="https://www.linkedin.com/in/ragulram-b-455387253/" title="Issues">LinkedIn</a>
   <br>
   📫 How to reach me: <a href="mailto: ragulram0427@gmail.com">ragulram0427@gmail.com</a>
-</h4>
+</p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">Languages</h2>
 <br>
 <p align="center">
-  <code><img title="C" width="40" src="images/c.svg"></code>    
+  <code><img title="C" width="45" src="images/c.png"></code>    
   <code><img title="Python" width="40" src="images/python-original.svg"></code> 
   <code><img title="Javascript" width="40" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" width="40" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" width="40" src="images/html5.svg"></code>
-  <code><img title="CSS" width="40" src="images/css.svg"></code>
-  <code><img title="SASS" width="40" src="images/sass.svg"></code>  
-  <code><img title="React" width="40" src="images/react-original.svg"></code>    
-  <code><img title="Git" width="40" src="images/git-original.svg"></code>    
-  <code><img title="Visual Studio Code" width="40" src="images/vscode.png"></code>  
   <code><img title="Java" width="40" src="images/java-original.svg"></code>
-  <code><img title="JSON" width="40" src="images/json.svg"></code>  
-  <code><img title="GitHub" width="40" src="images/github-mark-white.svg"></code>  
-  <code><img title="npm" width="40" src="images/npm.svg"></code>  
 </p>
 <hr>
 
