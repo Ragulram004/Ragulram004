@@ -10,7 +10,7 @@
   <code><a href="https://www.linkedin.com/in/ragulram-b-455387253/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 </h5>
 <br>
-<p align="center">
+<h4 align="center">
   Hi, I'm Ragulram,
   <br>
   <br>
@@ -22,8 +22,8 @@
   <br>
   💬 Ask me anything about from <a href="https://www.linkedin.com/in/ragulram-b-455387253/" title="Issues">LinkedIn</a>
   <br>
-  📫 How to reach me: <a href="mailto: ragulram0427@gmail.com">osmandurdag@hotmail.com</a>
-</p>
+  📫 How to reach me: <a href="mailto: ragulram0427@gmail.com">ragulram0427@gmail.com</a>
+</h4>
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
