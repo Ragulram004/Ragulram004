@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=ragulram004&label=Profile%20views&color=0e75b6&style=flat" alt="ragulram004" >
+<img align="right" src="images/RAGULRAM (1).png" alt="ragulram004" >
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -7,7 +7,8 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/ragulram-b-455387253/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/ragulram-b-455387253/" title="LinkedIn Profile"><img width="30" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="mailto: ragulram0427@gmail.com" title="Portfolio"><img width="30" src="images/gmail.png"> Gmail</a></code>
 </h5>
 <br>
 <h3 align="center">
