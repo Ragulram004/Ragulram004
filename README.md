@@ -1,113 +1,74 @@
-<h1 align="center">Hi 👋, There I'm Ragulram</h1>
-<h3 align="center">Web developer</h3>
+<img align="right" src="https://komarev.com/ghpvc/?username=ragulram004&label=Profile%20views&color=0e75b6&style=flat" alt="ragulram004" >
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=ragulram004&label=Profile%20views&color=0e75b6&style=flat" alt="ragulram004" />
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/ragulram-b-455387253/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+</h5>
+<br>
+<p align="center">
+  Hi, I'm Ragulram,
+  <br>
+  <br>
+  🔬 I'm currently studying B.Tech at Bannari Amman Institute of Technology , Department of Artificial Intelligence and Data Science.
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I’m currently learning Data Structures and Algorithm using Java.
+  <br>
+  💬 Ask me anything about from <a href="https://www.linkedin.com/in/ragulram-b-455387253/" title="Issues">LinkedIn</a>
+  <br>
+  📫 How to reach me: <a href="mailto: ragulram0427@gmail.com">osmandurdag@hotmail.com</a>
 </p>
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=ragulram004" alt="ragulram004" />
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="C" height="25" src="images/c.svg"></code>    
+  <code><img title="Python" height="25" src="images/python-original.svg"></code> 
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="SASS" height="25" src="images/sass.svg"></code>  
+  <code><img title="React" height="25" src="images/react-original.svg"></code>    
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>    
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>  
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>  
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>  
+  <code><img title="npm" height="25" src="images/npm.svg"></code>  
+</p>
+<hr>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Ragulram004&theme=react&border=61dafb&hide_border=true" alt="Ragulram004" />
     </a>
-</p>
-
-<p align="left">
-    <a href="https://twitter.com/" target="blank">
-        <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Ragulram004&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
-</p>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragulram004&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
 
-## 🌟 About Me
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ragulram004&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p> 
 
-I'm a **Student '26** passionate about web development, specializing in the **MERN stack**. Currently pursuing a B.Tech in Artificial Intelligence and Data Science at Bannari Amman Institute Of Technology.
-
-### 🔭 My Passions
-- 💡 Delving into new technologies and finding creative solutions.
-- 🌱 Continuously learning and developing, particularly in web development.
-- ✍️ Engaging in web design as a creative endeavor and side project.
-
-### 🔧 My Skills
-- Developing dynamic web applications using React.js and Node.js
-- **JavaScript Enthusiast:** With hands-on experience in JavaScript, I've successfully delivered projects such as an online form-generating website used by students.
-
-### ☀️ Current Activities
-- 🛠️ Working on personal coding projects to implement my knowledge and explore new technologies.
-- 📚 Keeping up-to-date with the latest trends and advancements in the tech industry through research.
-
-### 🌱 Currently Expanding My Knowledge
-- Enhancing my skills in DSA (Data Structures and Algorithms) using Java.
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a> <br>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a> <br>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>    
-    
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a> <br>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  
-  
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  
-  
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>    
-    
-    
-</p>
-
-<h3>Connect with me: </h3>
- <a href="https://www.linkedin.com/in/ragulram-b-455387253/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ragulram-b-455387253" height="25" width="35" />
-</a>
-<a href="https://www.instagram.com/ragulram_004/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_instagram_username" height="25" width="35" />
-</a>
-
-
-
+<hr>
+<h4 align="center">
+  <a href="https://github.com/Ragulram004?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
