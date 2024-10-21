@@ -41,7 +41,7 @@
   <code><img title="Visual Studio Code" width="40" src="images/vscode.png"></code>  
   <code><img title="Java" width="40" src="images/java-original.svg"></code>
   <code><img title="JSON" width="40" src="images/json.svg"></code>  
-  <code><img title="GitHub" width="40" src="images/github.svg"></code>  
+  <code><img title="GitHub" width="40" src="images/github-mark-white.svg"></code>  
   <code><img title="npm" width="40" src="images/npm.svg"></code>  
 </p>
 <hr>
