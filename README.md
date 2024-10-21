@@ -1,4 +1,3 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=ragulram004&label=Visitors&color=61DAFB&style=flat" alt="ragulram004" >
 <img align="right" src="images/header.png" alt="ragulram004" >
 <br><br><br><br><br><br><br><br><br><br>
 <hr>
@@ -6,6 +5,7 @@
   <code><a href="https://www.linkedin.com/in/ragulram-b-455387253/" title="LinkedIn Profile"><img width="25" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="mailto: ragulram0427@gmail.com" title="Gmail"><img width="28" src="images/gmail.png"> Gmail</a></code>
 </p>
+<img align="right" src="https://komarev.com/ghpvc/?username=ragulram004&label=Visitors&color=61DAFB&style=flat" alt="ragulram004" >
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Welcome+to+my+Profile...!&center=true&size=25&color=F0DC4E&weight=900">
