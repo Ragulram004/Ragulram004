@@ -3,7 +3,7 @@
 <hr>
 <p align="center">
   <code><a href="https://www.linkedin.com/in/ragulram-b-455387253/" title="LinkedIn Profile"><img width="25" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="mailto: ragulram0427@gmail.com" title="Portfolio"><img width="28" src="images/gmail.png"> Gmail</a></code>
+  <code><a href="mailto: ragulram0427@gmail.com" title="Gmail"><img width="28" src="images/gmail.png"> Gmail</a></code>
 </p>
 <h3 align="center">
   <a href="https://git.io/typing-svg">
@@ -62,7 +62,7 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Ragulram004&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragulram004&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
@@ -73,6 +73,7 @@
 </p> 
 
 <hr>
+
 <h4 align="center">
-  <a href="https://github.com/Ragulram004?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://ragulram.vercel.app" title="Show Repositories">🔎y Portfolio</a>
 </h4>
