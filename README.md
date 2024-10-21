@@ -75,5 +75,5 @@
 <hr>
 
 <h4 align="center">
-  <a href="https://ragulram.vercel.app" title="Show Repositories">🔎y Portfolio</a>
+  <a href="https://ragulram.vercel.app" title="Show Repositories">↗️ My Portfolio</a>
 </h4>
