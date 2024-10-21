@@ -1,5 +1,5 @@
 <img align="right" src="images/header.png" alt="ragulram004" >
-<br>
+<hr>
 <h3 align="center">
   Connect Through
 </h3>
@@ -14,7 +14,6 @@
   </a>
 </h1>
 <p align="center">
-  <br>
   🔬 I'm currently studying B.Tech at Bannari Amman Institute of Technology , Department of Artificial Intelligence and Data Science.
   <br>
   💻 I love writing code and learn anythings about it
