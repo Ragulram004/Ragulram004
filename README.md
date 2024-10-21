@@ -23,7 +23,7 @@
 </p>
 
 <hr>
-<h2 align="center"> Tools -- Languages -- Frameworks </h2>
+<h3 align="center"> Tools -- Languages -- Frameworks </h3>
 <br>
 <p align="center">
   <code><img title="Visual Studio Code" width="40" src="images/vs-code.png"></code>
@@ -51,7 +51,7 @@
 </p>
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h3 align="center">⚡ Stats ⚡</h3>
 <br>
 <p align=center>
   <div align=center>
