@@ -1,11 +1,10 @@
 <img align="right" src="images/header.png" alt="ragulram004" >
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 <hr>
 <p align="center">
   <code><a href="https://www.linkedin.com/in/ragulram-b-455387253/" title="LinkedIn Profile"><img width="25" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="mailto: ragulram0427@gmail.com" title="Portfolio"><img width="28" src="images/gmail.png"> Gmail</a></code>
 </p>
-<br>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+RAGULRAM...;Nice+to+meet+you!&center=true&size=25&color=F0DC4E&weight=900">
