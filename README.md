@@ -1,4 +1,4 @@
-<img align="right" src="images/RAGULRAM (1).png" alt="ragulram004" >
+<img align="right" src="images/header.png" alt="ragulram004" >
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/ragulram-b-455387253/" title="LinkedIn Profile"><img width="30" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="mailto: ragulram0427@gmail.com" title="Portfolio"><img width="30" src="images/gmail.png"> Gmail</a></code>
+  <code><a href="mailto: ragulram0427@gmail.com" title="Portfolio"><img width="32" src="images/gmail.png"> Gmail</a></code>
 </h5>
 <br>
 <h3 align="center">
