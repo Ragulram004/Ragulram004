@@ -27,13 +27,31 @@
 </p>
 
 <hr>
-<h2 align="center">Languages</h2>
+<h2 align="center"> Tools -- Languages -- Frameworks </h2>
 <br>
+<p align="center">
+  <code><img title="Visual Studio Code" width="40" src="images/vs-code.png"></code>
+  <code><img title="GIT" width="40" src="images/git-original.svg"></code>
+  <code><img title="GIT-HUB" width="40" src="images/github.png"></code>
+</p>
 <p align="center">
   <code><img title="C" width="45" src="images/c.png"></code>    
   <code><img title="Python" width="40" src="images/python-original.svg"></code> 
-  <code><img title="Javascript" width="40" src="images/javascript.svg"></code>
+  <code><img title="Javascript" width="40" src="images/javascript.png"></code>
   <code><img title="Java" width="40" src="images/java-original.svg"></code>
+</p>
+<p align="center">
+  <code><img title="HTML5" width="35" src="images/html.png"></code> 
+  <code><img title="CSS" width="42" src="images/css.png"></code> 
+  <code><img title="Bootstrap" width="40" src="images/bootstrap.png"></code> 
+  <code><img title="Javascript" width="40" src="images/javascript.png"></code> 
+  <code><img title="Tailwind" width="40" src="images/tailwind.png"></code> 
+  <code><img title="React" width="40" src="images/react-original.svg"></code> 
+  <code><img title="MongoDB" width="40" src="images/mongo.png"></code> 
+  <code><img title="ExpressJS" width="40" src="images/express.png"></code> 
+  <code><img title="NodeJS" width="40" src="images/node.png"></code> 
+  <code><img title="SASS" width="40" src="images/sass.svg"></code>
+  <code><img title="Node Package Manager" width="40" src="images/npm.svg"></code> 
 </p>
 <hr>
 
