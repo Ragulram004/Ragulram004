@@ -17,8 +17,6 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I'm currently learning Data Structures and Algorithm using Java.
-  <br>
   💬 Ask me anything about from <a href="https://www.linkedin.com/in/ragulram-b-455387253/" title="Issues">LinkedIn</a>
   <br>
   📫 How to reach me: <a href="mailto: ragulram0427@gmail.com">ragulram0427@gmail.com</a>
