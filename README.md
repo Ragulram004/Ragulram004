@@ -1,9 +1,12 @@
 <img align="right" src="images/header.png" alt="ragulram004" >
 <br><br><br><br><br><br><br><br><br><br>
+<h2>🌐 Connect with Me</h2>
 <hr>
 <p align="center">
-  <code><a href="https://www.linkedin.com/in/ragulram-b-455387253/" title="LinkedIn Profile"><img width="25" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="mailto: ragulram0427@gmail.com" title="Gmail"><img width="28" src="images/gmail.png"> Gmail</a></code>
+  | Ragulram | LinkedIn | Instagram | Mail |
+  | --- | --- | --- | --- | --- |
+  | [![Ragulram](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Ragulram&size=square)](https://ragulram.vercel.app/) | [![ragulram-balasaravanan](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fragulram-balasaravanan%2F&subtitle=ragulram-balasaravanan&size=square)](https://www.linkedin.com/in/ragulram-balasaravanan/) | [![rxgulrxm](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Frxgulrxm%2F&subtitle=rxgulrxm&size=square)](https://www.instagram.com/rxgulrxm/) | [![ragulram0427@gmail.com](https://bentos.jkominovic.dev/api/v1/bento-cards?url=ragulram%40gmail.com&subtitle=ragulram0427%40gmail.com&size=square)](ragulram@gmail.com) |
+
 </p>
 <img align="right" src="https://komarev.com/ghpvc/?username=ragulram004&label=Visitors&color=61DAFB&style=flat" alt="ragulram004" >
 <br>
@@ -57,9 +60,10 @@
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Ragulram004&theme=react&border=61dafb&hide_border=true" alt="Ragulram004" />
+      
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=375 src="https://github-readme-stats.vercel.app/api?username=Ragulram004&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <a href="" title="Go to Source">
+      <img align="right" height="156" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ragulram004&theme=react&hide_border=true">
     </a>
     <br><br><br><br><br><br><br><br>
   </div>
