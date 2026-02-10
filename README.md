@@ -96,17 +96,31 @@
 
 ### 📈 Stats 
 <p>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Ragulram004&theme=react&border=61dafb&hide_border=true" alt="Ragulram004" />
-	</a>
-	<a href="" >
-      <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ragulram004&theme=react&hide_border=true" alt="Repos Per Language"/>
-    </a>
-  </div>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ragulram004&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ragulram004&theme=react&hide_border=true"
+        alt="GitHub Stats"
+      />
+    </td>
+	<td width="50%" align="center">
+      <img
+        src="https://streak-stats.demolab.com/?user=Ragulram004&theme=react&border=61dafb&hide_border=true"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Ragulram004&theme=react-dark&bg_color=20232a&hide_border=true"
+        alt="GitHub Activity Graph"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 <hr>
 
