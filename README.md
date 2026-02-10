@@ -1,66 +1,25 @@
 <img align="right" src="images/header.png" alt="ragulram004" >
 <br><br><br><br><br><br><br><br><br><br>
-
-<div align="center">
-  <h2>🌐 Connect with Me</h2>
-  <p>Discover my work and connect on these platforms!</p>
-  <table style="width:100%; border: none;">
-    <tr>
-      <td align="center" width="20%">
-        <a href="https://ragulram.vercel.app/">
-          <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Ragulram&size=square" alt="Portfolio"/><br>
-          <strong>Portfolio</strong>
-        </a>
-      </td>
-      <td align="center" width="20%">
-        <a href="https://www.linkedin.com/in/ragulram-balasaravanan/">
-          <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="48"/><br>
-          <strong>LinkedIn</strong>
-        </a>
-      </td>
-      <td align="center" width="20%">
-        <a href="https://www.instagram.com/rxgulrxm/">
-          <img src="https://img.icons8.com/fluent/96/000000/instagram-new.png" alt="Instagram" width="48"/><br>
-          <strong>Instagram</strong>
-        </a>
-      </td>
-      <td align="center" width="20%">
-        <a href="https://github.com/ragulram004">
-          <img src="https://img.icons8.com/color/96/000000/github--v1.png" alt="GitHub" width="48"/><br>
-          <strong>GitHub</strong>
-        </a>
-      </td>
-      <td align="center" width="20%">
-        <a href="mailto:ragulram0427@gmail.com">
-          <img src="https://img.icons8.com/color/96/000000/gmail--v1.png" alt="Email" width="48"/><br>
-          <strong>Email</strong>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<hr>
-<img align="right" src="https://komarev.com/ghpvc/?username=ragulram004&label=Visitors&color=61DAFB&style=flat" alt="ragulram004" >
-<br>
-<h3 align="center">
+<!-- <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Welcome+to+my+Profile...!&center=true&size=25&color=F0DC4E&weight=900">
   </a>
-</h3>
-<p align="center">
-  🔬 I'm currently studying B.Tech at Bannari Amman Institute of Technology , Department of Artificial Intelligence and Data Science.
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  💬 Ask me anything about from <a href="https://www.linkedin.com/in/ragulram-b-455387253/" title="Issues">LinkedIn</a>
-  <br>
-  📫 How to reach me: <a href="mailto: ragulram0427@gmail.com">ragulram0427@gmail.com</a>
-</p>
+</h3> -->
+<img align="right" src="https://komarev.com/ghpvc/?username=ragulram004&label=Visitors&color=61DAFB&style=flat" alt="ragulram004" >
 
-<hr>
+### Hey there, I'm Ragulram B 👋
 
-<h1 align="center"> Tools & Technologies</h1>
+Welcome to my GitHub profile! I'm a web developer mainly working with the MERN stack, interested in building practical and user-focused web applications.
+---
+
+### 🎯 What I'm Specialized in:
+
+- Writing dynamic web applications with MERN Stack.
+- Building clean, user-focused web applications from frontend to backend.
+- Creating responsive and visually appealing user interfaces.
+
+
+### 👨🏻‍💻 Tools & Technologies:
 
 <div >
   <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code>
@@ -97,23 +56,55 @@
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/></code>
+</div>>
+
+<div align="center">
+  <h2>🌐 Connect with Me</h2>
+  <table style="width:80%; border: none;">
+    <tr>
+      <td align="center" width="10%">
+        <a href="https://ragulram.vercel.app/">
+          <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Ragulram&size=square" width="30" alt="Portfolio"/><br>
+          <strong>Portfolio</strong>
+        </a>
+      </td>
+      <td align="center" width="20%">
+        <a href="https://www.linkedin.com/in/ragulram-balasaravanan/">
+          <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="30"/><br>
+          <strong>LinkedIn</strong>
+        </a>
+      </td>
+      <td align="center" width="20%">
+        <a href="https://www.instagram.com/rxgulrxm/">
+          <img src="https://img.icons8.com/fluent/96/000000/instagram-new.png" alt="Instagram" width="30"/><br>
+          <strong>Instagram</strong>
+        </a>
+      </td>
+      <td align="center" width="20%">
+        <a href="https://github.com/ragulram004">
+          <img src="https://img.icons8.com/color/96/000000/github--v1.png" alt="GitHub" width="30"/><br>
+          <strong>GitHub</strong>
+        </a>
+      </td>
+      <td align="center" width="20%">
+        <a href="mailto:ragulram0427@gmail.com">
+          <img src="https://img.icons8.com/color/96/000000/gmail--v1.png" alt="Email" width="30"/><br>
+          <strong>Email</strong>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
- 
 
-<hr>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p >
+### 📈 Stats 
+<p>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Ragulram004&theme=react&border=61dafb&hide_border=true" alt="Ragulram004" />
-      
+	</a>
+	<a href="" >
+      <img align="right" height="156" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ragulram004&theme=react&hide_border=true">
     </a>
-    <a href="">
-      <img align="right" height="156" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ragulram004&theme=react&hide_border=true"/>
-    </a>
-    <br><br><br><br><br><br><br><br>
   </div>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ragulram004&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
