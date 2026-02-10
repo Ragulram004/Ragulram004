@@ -1,10 +1,46 @@
 <img align="right" src="images/header.png" alt="ragulram004" >
 <br><br><br><br><br><br><br><br><br><br>
+
+<div align="center">
+  <h2>🌐 Connect with Me</h2>
+  <p>Discover my work and connect on these platforms!</p>
+  <table style="width:100%; border: none;">
+    <tr>
+      <td align="center" width="20%">
+        <a href="https://ragulram.vercel.app/">
+          <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Ragulram&size=square" alt="Portfolio"/><br>
+          <strong>Portfolio</strong>
+        </a>
+      </td>
+      <td align="center" width="20%">
+        <a href="https://www.linkedin.com/in/ragulram-balasaravanan/">
+          <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="48"/><br>
+          <strong>LinkedIn</strong>
+        </a>
+      </td>
+      <td align="center" width="20%">
+        <a href="https://www.instagram.com/rxgulrxm/">
+          <img src="https://img.icons8.com/fluent/96/000000/instagram-new.png" alt="Instagram" width="48"/><br>
+          <strong>Instagram</strong>
+        </a>
+      </td>
+      <td align="center" width="20%">
+        <a href="https://github.com/ragulram004">
+          <img src="https://img.icons8.com/color/96/000000/github--v1.png" alt="GitHub" width="48"/><br>
+          <strong>GitHub</strong>
+        </a>
+      </td>
+      <td align="center" width="20%">
+        <a href="mailto:ragulram0427@gmail.com">
+          <img src="https://img.icons8.com/color/96/000000/gmail--v1.png" alt="Email" width="48"/><br>
+          <strong>Email</strong>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <hr>
-<p align="center">
-  <code><a href="https://www.linkedin.com/in/ragulram-b-455387253/" title="LinkedIn Profile"><img width="25" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="mailto: ragulram0427@gmail.com" title="Gmail"><img width="28" src="images/gmail.png"> Gmail</a></code>
-</p>
 <img align="right" src="https://komarev.com/ghpvc/?username=ragulram004&label=Visitors&color=61DAFB&style=flat" alt="ragulram004" >
 <br>
 <h3 align="center">
@@ -23,32 +59,47 @@
 </p>
 
 <hr>
-<h3 align="center"> Tools -- Languages -- Frameworks </h3>
-<br>
-<p align="center">
-  <code><img title="Visual Studio Code" width="40" src="images/vs-code.png"></code>
-  <code><img title="GIT" width="40" src="images/git-original.svg"></code>
-  <code><img title="GIT-HUB" width="40" src="images/github.png"></code>
-</p>
-<p align="center">
-  <code><img title="C" width="45" src="images/c.png"></code>    
-  <code><img title="Python" width="40" src="images/python-original.svg"></code> 
-  <code><img title="Javascript" width="40" src="images/javascript.png"></code>
-  <code><img title="Java" width="40" src="images/java-original.svg"></code>
-</p>
-<p align="center">
-  <code><img title="HTML5" width="35" src="images/html.png"></code> 
-  <code><img title="CSS" width="42" src="images/css.png"></code> 
-  <code><img title="Bootstrap" width="40" src="images/bootstrap.png"></code> 
-  <code><img title="Javascript" width="40" src="images/javascript.png"></code> 
-  <code><img title="Tailwind" width="40" src="images/tailwind.png"></code> 
-  <code><img title="React" width="40" src="images/react-original.svg"></code> 
-  <code><img title="MongoDB" width="40" src="images/mongo.png"></code> 
-  <code><img title="ExpressJS" width="40" src="images/express.png"></code> 
-  <code><img title="NodeJS" width="40" src="images/node.png"></code> 
-  <code><img title="SASS" width="40" src="images/sass.svg"></code>
-  <code><img title="Node Package Manager" width="40" src="images/npm.svg"></code> 
-</p>
+
+<h1 align="center"> Tools & Technologies</h1>
+
+<div >
+  <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webstorm.png" alt="WebStorm" title="WebStorm"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" alt="Sass" title="Sass"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png" alt="Material UI" title="Material UI"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/chakra_ui.png" alt="Chakra UI" title="Chakra UI"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png" alt="websocket" title="websocket"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="ShadCn UI" title="ShadCn UI"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lucide.png" alt="Lucide" title="Lucide"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" alt="npm" title="npm"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" alt="Redux" title="Redux"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React Native" title="React Native"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/></code>
+</div>
+ 
+
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -57,9 +108,10 @@
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Ragulram004&theme=react&border=61dafb&hide_border=true" alt="Ragulram004" />
+      
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=375 src="https://github-readme-stats.vercel.app/api?username=Ragulram004&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <a href="">
+      <img align="right" height="156" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ragulram004&theme=react&hide_border=true"/>
     </a>
     <br><br><br><br><br><br><br><br>
   </div>
